@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/88027865?v=4" width=200px>
 </div>
 <h2> Dark Theme </h2>
- <img src="https://i.imgur.com/hTPHnUJ.png" align="center">
+ <img src="https://i.imgur.com/6Xgn4pz.png" align="center">
  <h2> Light Theme</h2>
  <img src="https://i.imgur.com/NPoc8M8.png" align="center">
 
