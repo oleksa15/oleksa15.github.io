@@ -110,18 +110,19 @@ fieldset a:hover{
     color: #BB9AF7;
 }
 
-.mask{
-    background-color: #1A1B26;
-}
-
-.loader {
-    border-color: #D5D6DB;
-}
-
 .change-theme[data-theme="dark"]{
     display: none;
 }
 
 .change-theme[data-theme="light"]{
     display: block;
+}
+
+::-webkit-scrollbar-thumb {
+	background:  #333443;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+	background:  #3c3d4d;
 }
