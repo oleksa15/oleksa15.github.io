@@ -2,4 +2,4 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/88027865?v=4" width=200px>
 </div>
-<br></br>
+<p> Get inspired from <a href="https://github.com/willeccles">his</a> <a href="https://eccles.dev/">page</a> and <a href="">his</a> <a href="">page</a>
