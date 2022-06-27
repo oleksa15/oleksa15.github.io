@@ -1,0 +1,128 @@
+body{
+    background: #D5D6DB;
+    transition: 0.6s;
+}
+
+h1{
+    color: #343B58;
+}
+
+p{
+    color: #565A6E;
+}
+
+.theme{
+    background-color: #7F59D4;
+}
+
+.theme:hover{
+    background-color: #6B46C1;
+}
+
+footer{
+    background-color: #B9BBC6;
+}
+
+.left-footer p{
+    color: #634F30;
+}
+
+.left-footer a{
+    border-bottom: 1px dashed #83858D;
+    color: #83858D;
+}
+
+.left-footer a:hover{
+    border-bottom: 1px dashed #5A4A78;
+    color: #5A4A78;
+}
+
+.right-footer a{
+    border-bottom: 1px dashed #83858D;
+    color: #83858D;
+}
+
+.right-footer a:hover{
+    border-bottom: 1px dashed #5A4A78;
+    color: #5A4A78;
+}
+
+fieldset{
+    border: 3px solid #634F30;
+}
+
+fieldset p{
+    color: #634F30
+}
+
+.study{
+    color: rgba(99, 79, 48, 0.4);
+}
+
+legend{
+    color: #965027;
+}
+
+ul{
+    color: #634F30;
+}
+
+fieldset a{
+    color: #9699A3;
+}
+
+fieldset a:hover{
+    color: #5A4A78;
+}
+
+.about-add li{
+    color: #634F30;
+}
+
+.about-add ul .study{
+    color: rgba(99, 79, 48, 0.4);
+}
+
+.hfetch{
+    color: #F7768E;
+}
+
+.roboot{
+    color: #7AA2F7;
+}
+
+.portfolio-content fieldset a{
+    color: #9699A3;
+    border-bottom: 1px dashed #9699A3;
+}
+
+.portfolio-content fieldset a:hover{
+    border-bottom: 1px dashed #5A4A78;
+    color: #5A4A78;
+}
+
+.more{
+    color: #9699A3;
+    border-bottom: 1px dashed #9699A3;
+}
+
+.more:hover{
+    border-bottom: 1px dashed #5A4A78;
+    color: #5A4A78;
+}
+
+.mask{
+    background-color:  #D5D6DB;
+}
+
+.loader {
+    border-color: #1A1B26;
+}
+
+.change-theme[data-theme="light"]{
+    display: none;
+}
+
+.change-theme[data-theme="dark"]{
+    display: block;
+}

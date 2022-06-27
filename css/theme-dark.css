@@ -1,0 +1,127 @@
+body{
+    background: #1A1B26;
+    transition: 0.6s;
+}
+
+h1{
+    color: #9AA5CE;
+}
+
+p{
+    color: #565A6E;
+}
+
+.theme{
+    background-color: #FBD38D;
+}
+
+.theme:hover{
+    background-color: #F6AD55;
+}
+
+footer{
+    background-color: #20212D;
+}
+
+.left-footer a{
+    color: #565F89;
+    border-bottom: 1px dashed #565F89;
+}
+
+.left-footer p{
+    color: #CFC9C2;
+}
+
+.left-footer a:hover{
+    border-bottom: 1px dashed #BB9AF7;
+    color: #BB9AF7;
+}
+
+.right-footer a{
+    color: #565F89;
+    border-bottom: 1px dashed #565F89;
+}
+
+.right-footer a:hover{
+    border-bottom: 1px dashed #BB9AF7;
+    color: #BB9AF7;
+}
+
+fieldset{
+    border: 3px solid #CFC9C2;
+}
+
+
+fieldset p{
+    color: #CFC9C2;
+}
+
+.about-add li{
+    color: #CFC9C2;
+}
+
+.about-add ul .study{
+    color: rgba(207, 201, 194, 0.4);
+}
+
+
+legend{
+    color: #FF9E64;
+}
+
+ul{
+    color: #CFC9C2;
+}
+
+fieldset a{
+    color: #565F89;
+}
+
+fieldset a:hover{
+    color: #BB9AF7;
+}
+
+.hfetch{
+    color: #F7768E;
+}
+
+.roboot{
+    columns: #7AA2F7;
+}
+
+.portfolio-content fieldset a{
+    color: #565F89;
+    border-bottom: 1px dashed #565F89;
+}
+
+.portfolio-content fieldset a:hover{
+    border-bottom: 1px dashed #BB9AF7;
+    color: #BB9AF7;
+}
+
+.more{
+    color: #565F89;
+    border-bottom: 1px dashed #565f89;
+
+}
+
+.more:hover{
+    border-bottom: 1px dashed #BB9AF7;
+    color: #BB9AF7;
+}
+
+.mask{
+    background-color: #1A1B26;
+}
+
+.loader {
+    border-color: #D5D6DB;
+}
+
+.change-theme[data-theme="dark"]{
+    display: none;
+}
+
+.change-theme[data-theme="light"]{
+    display: block;
+}

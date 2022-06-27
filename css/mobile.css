@@ -1,0 +1,37 @@
+.content{
+    flex-direction: column;
+    height: 1517px;
+}   
+
+.info-header{
+    display: block;
+    text-align: center;
+}
+
+.info-field{
+    margin: 20px auto;
+}
+
+.portfolio-field{
+    margin: 38px auto;
+}
+
+footer{
+    flex-direction: column;
+    height: 120px
+}
+
+footer p{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.left-footer{
+    margin-left: 20px;
+    margin-right: 58px;
+    margin-top: 8px;
+}
+
+.right-footer{
+    margin: 8px 0 14px 20px;
+}
